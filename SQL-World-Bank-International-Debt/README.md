@@ -14,16 +14,6 @@ with SQL queries and visualizing analysis with Tableau
 
 
 
-## Tableau Visualizations
-<!-- [Tableau Public Workbook](https://public.tableau.com/profile/diannejardinez#!/vizhome/InternationalDebtwithTheWorldBankData/Map?publish=yes) -->
-
-
-![](https://github.com/diannejardinez/SQL-World-Bank-International-Debt/blob/master/images/Tableau-Map.png)
-> Countries in the international debt dataset
-
-<!-- ![](https://github.com/diannejardinez/SQL-World-Bank-International-Debt/blob/master/images/Tableau-Map_country-debt.png) -->
-<!-- > Total Debt for each country -->
-
 ## SQL Analysis
 ### Income Level
 > Income levels were Low income, lower middle income,  middle income, upper middle income
